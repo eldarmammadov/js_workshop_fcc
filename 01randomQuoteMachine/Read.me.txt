@@ -1,1 +1,10 @@
 Random quote machine, by click gives a quote taken by ajax from api given . generates quote and sending it to twitter by share button
+
+while working on this project I had familiraty with concepts like; 
+1 window.open 
+2 twitter widgets
+3 udacity links(
+https://classroom.udacity.com/courses/ud110/lessons/3174548544/concepts/31818490730923
+
+https://www.udacity.com/course/intro-to-jquery--ud245)
+
