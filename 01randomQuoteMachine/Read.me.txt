@@ -1,0 +1,1 @@
+Random quote machine, by click gives a quote taken by ajax from api given . generates quote and sending it to twitter by share button
